@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Thapa</h1>
 <h3 align="center">Software Engineer on a mission to master AI/ML and Data Science.</h3>
 
-- 🔭 I’m currently working on [Mentexa](https://github.com/PritamTheCoder/Mentexa.git)
+- 🔭 I’m currently working on [Cat_vs_Dogs_CNN](https://github.com/PritamTheCoder/Cats_vs_Dogs_CNN.git)
 
 - 🌱 I’m currently learning **Computer Vision, PyTorch, DeepLearning**
 
