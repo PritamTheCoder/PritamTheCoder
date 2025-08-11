@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mentexa](https://github.com/PritamTheCoder/Mentexa.git)
 
-- 🌱 I’m currently learning **Python for Data Analysis, System Design Principles**
+- 🌱 I’m currently learning **Computer Vision, PyTorch, DeepLearning**
 
 - 👨‍💻 All of my projects are available at [github.com/PritamTheCoder](github.com/PritamTheCoder)
 
