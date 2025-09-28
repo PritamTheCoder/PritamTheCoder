@@ -1,0 +1,21 @@
+<!-- assets/divider-glitch.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 8" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gG" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff00c3"></stop>
+      <stop offset="0.4" stop-color="#00f5a0"></stop>
+      <stop offset="1" stop-color="#00d9f5"></stop>
+    </linearGradient>
+    <filter id="turb">
+      <feTurbulence baseFrequency="0.02" numOctaves="2" seed="4" result="t"></feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="6" xChannelSelector="R" yChannelSelector="G"></feDisplacementMap>
+      <feGaussianBlur stdDeviation="1" result="b"></feGaussianBlur>
+      <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+
+  <!-- faint backbar for depth -->
+  <rect x="0" y="2" width="1440" height="4" fill="#071428" opacity="0.6"></rect>
+  <!-- glitchy front -->
+  <rect x="0" y="1" width="1440" height="6" fill="url(#gG)" filter="url(#turb)" opacity="0.95"></rect>
+</svg>
