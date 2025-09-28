@@ -1,23 +1,101 @@
-<h1 align="center">Hi 👋, I'm Pritam Thapa</h1>
-<h3 align="center">Software Engineer on a mission to master AI/ML and Data Science.</h3>
+<h1 align="center">🤖 Hey, I'm Pritam 👋</h1>
+<h3 align="center">AI-curious | Creative Coder | Vision Enthusiast</h3>
 
-- 🔭 I’m currently working on [Cat_vs_Dogs_CNN](https://github.com/PritamTheCoder/Cats_vs_Dogs_CNN.git)
+---
 
-- 🌱 I’m currently learning **Computer Vision, PyTorch, DeepLearning**
+### 🌌 About Me
+- 🔭 Exploring **AI/ML & Computer Vision**  
+- 💡 Passionate about building things that **push the limits of automation**  
+- 🌱 Constantly experimenting, failing, learning, repeating 🚀  
+- 🎵 Outside code: Drummer | Guitarist | Martial Artist (Jeet Kune Do) | Art Nerd
+- ⚡ *“Neural networks are like jokes: if you have to explain them, they’re not deep enough.”* 😂  
 
-- 👨‍💻 All of my projects are available at [github.com/PritamTheCoder](github.com/PritamTheCoder)
+---
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, JAVA, C, Python**
-
-- 📫 How to reach me **pritamthapaly0@gmail.com**
-
-- ⚡ Fun fact **I tried to train an AI model to make coffee... it now just throws Java exceptions ☕💥**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pritam thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam thapa" height="30" width="40" /></a>
-<a href="https://instagram.com/aurevyn_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aurevyn_p" height="30" width="40" /></a>
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Projects
+- 🐶 **[Cat vs Dog Classifier](https://github.com/PritamTheCoder/Cats_vs_Dogs_CNN.git)** — CNN model to classify cats & dogs  
+- 🎮 **[Starlight Collector](https://github.com/PritamTheCoder/Starlight_Collector.git)** — A Java game built from scratch  
+- 🌐 **[Mentexa](https://github.com/PritamTheCoder/Mentexa.git)** — Mental Health Partner  
+- 🔢 **[Goldbach Conjecture Visualizer](https://github.com/PritamTheCoder/GoldbachConjecture.git)** — Programming meets math curiosity  
+
+> *“Artificial Intelligence is no match for natural stupidity… but I’m working on it.”* 😏  
+
+---
+
+### 📚 Learning Now
+- 🧠 Deep Learning & Neural Networks  
+- 👁️ Computer Vision Engineering  
+- 🤖 Large Language Models (LLMs) & AI automation  
+
+---
+
+### 🎮 Play a Game
+<details>
+  <summary>🌟 Start the Adventure</summary>
+
+  You’re in a **Neural Network Labyrinth** 🧠⚡  
+  Two doors light up with glowing activations:
+
+  - [Go Left →](#left-path)  
+  - [Go Right →](#right-path)  
+
+---
+
+<a name="left-path"></a>
+🟢 You activated **ReLU**. The path is clear! 🚀  
+*Quote:* *“I would tell you a dropout joke, but you might not get it.”*  
+[Restart Game](#start-the-adventure)
+
+---
+
+<a name="right-path"></a>
+🔴 You hit **Vanishing Gradient** 😱  
+You wander endlessly… until Adam Optimizer rescues you.  
+*Quote:* *“Backprop gave me PTSD — Pretty Tough Stochastic Descent.”*  
+[Restart Game](#start-the-adventure)
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritamTheCoder&theme=radical" alt="GitHub streak" height="160"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ *“Training myself, one epoch at a time.”* ✨</p>  
+
+---
+
+### 🧠 Final Words of Wisdom  
+
+<p align="center">
+  <em>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</em>  
+  — <strong>Alan Turing</strong>  
+</p>
