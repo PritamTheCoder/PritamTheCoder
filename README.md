@@ -200,8 +200,6 @@
   <!-- Stats + Streak + Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&include_all_commits=true&theme=radical" height="170" />
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamTheCoder&layout=compact&theme=radical" height="170" />
 </p>
 
 <img src="./assets/divider-neon.svg" width="100%" height="4px" alt="neon divider"/>
