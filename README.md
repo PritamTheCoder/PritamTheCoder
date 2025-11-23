@@ -170,7 +170,7 @@
   🎯 You’ve reached the **Global Minimum**.  
   Your loss is low, your accuracy is high, and your soul is regularized. 🧘
 
-  > 🧠 *“Training myself, one epoch at a time.”* ✨
+  > 🧠 “Training myself, one epoch at a time.” ✨
 
   🥳 **Congratulations, Hero of the Labyrinth!**
 
@@ -202,13 +202,19 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:pritamthapaly0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/pritam-thapa-94640a32b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritamTheCoder&theme=radical" width="90%"/>
+
+  <!-- Stats + Streak + Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&include_all_commits=true&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=PritamTheCoder&theme=radical&hide_border=false" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamTheCoder&layout=compact&theme=radical" height="170" />
 </p>
 
 <img src="./assets/pulsebar.svg" width="100%" height="8px" alt="neon divider"/>
 
-<p align="center">✨ *“Training myself, one epoch at a time.”* ✨</p>
+<p align="center">✨ “Training myself, one epoch at a time.” ✨</p>
 
 <img src="./assets/pulsebar.svg" width="100%" height="8px" alt="neon divider"/>
 
