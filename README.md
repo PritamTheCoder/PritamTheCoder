@@ -194,22 +194,22 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritamTheCoder&theme=radical" alt="GitHub streak" height="160"/>
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritamTheCoder&theme=radical" width="90%"/>
+
+  <!-- Stats + Streak + Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&include_all_commits=true&theme=radical" height="170" />
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamTheCoder&layout=compact&theme=radical" height="170" />
 </p>
 
 <img src="./assets/divider-neon.svg" width="100%" height="4px" alt="neon divider"/>
 
 ### 📫 Connect With Me
 <p align="center">
-  <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritamTheCoder&theme=radical" width="90%"/>
-
-  <!-- Stats + Streak + Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PritamTheCoder&show_icons=true&include_all_commits=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=PritamTheCoder&theme=radical&hide_border=false" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamTheCoder&layout=compact&theme=radical" height="170" />
+  <a href="mailto:pritamthapaly0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/pritam-thapa-94640a32b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <img src="./assets/pulsebar.svg" width="100%" height="8px" alt="neon divider"/>
