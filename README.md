@@ -28,16 +28,19 @@
 <img src="./assets/glitch.svg" width="100%" height="4px" alt="neon divider"/>
 
 ### 🚀 Projects
+- 🛠️ **[Yolo-Forge](https://github.com/PritamTheCoder/YOLO-Forge.git)** - Scanning, Converting, Splitting, & Augmenting YOLO datasets
+- 🗿 **[Midas Depth Texture Mask API](https://github.com/PritamTheCoder/midas-depth-texture-mask-api.git)** - API for Structure and depth
 - 🐶 **[Cat vs Dog Classifier](https://github.com/PritamTheCoder/Cats_vs_Dogs_CNN.git)** — CNN model to classify cats & dogs  
 - 🎮 **[Starlight Collector](https://github.com/PritamTheCoder/Starlight_Collector.git)** — A Java game built from scratch  
 - 🌐 **[Mentexa](https://github.com/PritamTheCoder/Mentexa.git)** — Mental Health Partner  
-- 🔢 **[Goldbach Conjecture Visualizer](https://github.com/PritamTheCoder/GoldbachConjecture.git)** — Programming meets math curiosity  
+- 🔢 **[Goldbach Conjecture Visualizer](https://github.com/PritamTheCoder/GoldbachConjecture.git)** — Programming meets math curiosity
 
 > *“Artificial Intelligence is no match for natural stupidity… but I’m working on it.”* 😏  
 
 <img src="./assets/divider-neon.svg" width="100%" height="4px" alt="neon divider"/>
 
 ## 🧠 Neural Network Labyrinth — Interactive Story 🎮
+
 
 <details>
   <summary>🌟 Start the Adventure</summary>
